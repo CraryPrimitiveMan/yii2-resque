@@ -1,0 +1,26 @@
+{
+    "name": "yiisoft/yii2-resque",
+    "description": "Resque extension for the Yii framework",
+    "keywords": ["yii2", "resque"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/craryprimitiveman/yii2-resque/issues",
+        "source": "https://github.com/craryprimitiveman/yii2-resque"
+    },
+    "authors": [
+        {
+            "name": "harrysun",
+            "email": "sunguangjun@126.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.0",
+        "yiisoft/yii2-redis": ">=2.0.0"
+    },
+    "autoload": {
+        "psr-4": { "yii\\resque\\": "" }
+    },
+    "extra": {
+    }
+}
