@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-resque",
+    "name": "craryprimitiveman/yii2-resque",
     "description": "Resque extension for the Yii framework",
     "keywords": ["yii2", "resque"],
     "type": "yii2-extension",
